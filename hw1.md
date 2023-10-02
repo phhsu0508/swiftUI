@@ -22,15 +22,15 @@ struct ContentView: View {
                 Image("Hsu")
                     .resizable()
                     .scaledToFit()
-                    .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/, style: /*@START_MENU_TOKEN@*/FillStyle()/*@END_MENU_TOKEN@*/)
+                    .clipShape(Circle(), style: FillStyle())
                     .frame(width: 150, height: 250, alignment: .top)
                 
                     .overlay(Text("學號：1103314\n姓名：許博翔")
-                        .lineSpacing(/*@START_MENU_TOKEN@*/10.0/*@END_MENU_TOKEN@*/)
+                        .lineSpacing(10.0)
                         .fontWeight(.medium)
                         .frame(width: 200, height: 80, alignment: .center)
                         .background(Color.white)
-                        .cornerRadius(25.0, antialiased: /*@START_MENU_TOKEN@*/true/*@END_MENU_TOKEN@*/)
+                        .cornerRadius(25.0)
                         .opacity(0.6)
                              ,alignment:.centerLastTextBaseline
                     )
