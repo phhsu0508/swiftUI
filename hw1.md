@@ -1,3 +1,12 @@
+<h1>hw1</h1>
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/phhsu0508/swiftUI/blob/main/IMG_0775.jpeg>
+                </td>        
+ <td>
+```swift
+
 import SwiftUI
 
 struct ContentView: View {
@@ -61,4 +70,13 @@ struct ContentView: View {
     }
         
 }
+
+```
+</td>
+</tr>
+</table>
+
+
+
+
 
