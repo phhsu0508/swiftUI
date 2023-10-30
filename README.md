@@ -1,5 +1,5 @@
 <h1>Homework1</h1> 
-
+[作業一](https://github.com/phhsu0508/swiftUI/blob/main/hw1.md)
 
 找到ios好幾個版本前的桌面背景當作背景
 
@@ -12,4 +12,8 @@
 學會使用github
 
 在github上面放上code及圖片讓我終於有開始放作品集的感覺了 之後會利用今天所學將自己先前的小作品也放上github裡面
+
+
+<h1>Homework2</h1> 
+[作業二]()
 
