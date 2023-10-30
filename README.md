@@ -24,3 +24,4 @@
 
 [作業三](https://github.com/phhsu0508/swiftUI/blob/main/hw3.md)
 
+利用HStack與VStack我推的孩子賣的Blu-ray&DVD與周邊商品用來做成3x3的收藏櫃，利用ZStack放是星野愛的圖片當背景，增加融入程度。
