@@ -17,7 +17,7 @@
 
 <h1>Homework2</h1> 
 
-[作業二]()
+[作業二](https://github.com/phhsu0508/swiftUI/blob/main/hw2.md)
 
 
 <h1>Homework3</h1> 
