@@ -19,6 +19,7 @@
 
 [作業二](https://github.com/phhsu0508/swiftUI/blob/main/hw2.md)
 
+有三個出拳方式，然後Takina(電腦)會隨機出拳，會顯示出平手或者輸贏。
 
 <h1>Homework3</h1> 
 
