@@ -19,7 +19,7 @@
 
 [作業二](https://github.com/phhsu0508/swiftUI/blob/main/hw2.md)
 
-有三個出拳方式，然後Takina(電腦)會隨機出拳，會顯示出平手或者輸贏。
+說到猜拳就想到動畫「莉可麗絲」的猜拳橋段，因此用這來當主題，其中，短金髮為錦木千束(Chisato Nishikigi)、黑長髮為井之上瀧奈(Takina Inoue)，這邊我們扮演千束與瀧奈(電腦)猜拳，有三個出拳方式，然後Takina(電腦)會隨機出拳，顯示出平手或者輸贏。
 
 <h1>Homework3</h1> 
 
