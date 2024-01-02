@@ -29,6 +29,6 @@
 
 <h1>Homework4</h1> 
 
-[作業三](https://github.com/phhsu0508/swiftUI/blob/main/hw4.md)
+[作業四](https://github.com/phhsu0508/swiftUI/blob/main/hw4.md)
 
 製作三頁tabview第一頁為首頁，第二頁為scrollview可以查看已上架的BD商品價格與資訊，第三頁則是互動式的卡片可以閱讀第一季共11集動畫的簡介。
