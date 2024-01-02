@@ -8,6 +8,7 @@
 
  
 ```swift
+
 import SwiftUI
 struct ContentView: View { 
     
@@ -171,8 +172,7 @@ struct BookView: View{
                     
                     
         }
-        //.frame(minWidth: 0, idealWidth: 100, maxWidth: 300,
-          //     minHeight: 0, idealHeight: 100, maxHeight: 300, alignment: .center)
+
         .background(Image("bg")
             .resizable().aspectRatio(contentMode: .fill).opacity(0.9).blur(radius: 15))
         .onTapGesture { 
