@@ -3,7 +3,7 @@
     <tr>
         <div  align="center">
 
-  <img src="https://raw.githubusercontent.com/phhsu0508/swiftUI/main/hw4demo.gif"> 
+  <img src="https://raw.githubusercontent.com/phhsu0508/swiftUI/main/hw4demo.gif" width = "50%" height = "50%"> 
 
 </div>
 
