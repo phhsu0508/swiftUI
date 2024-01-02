@@ -26,3 +26,9 @@
 [作業三](https://github.com/phhsu0508/swiftUI/blob/main/hw3.md)
 
 利用HStack與VStack將「我推的孩子」賣的Blu-ray&DVD與周邊商品用來做成3x3的收藏櫃，利用ZStack放是星野愛的圖片當背景，增加融入程度。
+
+<h1>Homework4</h1> 
+
+[作業三](https://github.com/phhsu0508/swiftUI/blob/main/hw4.md)
+
+製作三頁tabview第一頁為首頁，第二頁為scrollview可以查看已上架的BD商品價格與資訊，第三頁則是互動式的卡片可以閱讀第一季共11集動畫的簡介。
