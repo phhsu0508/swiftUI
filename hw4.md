@@ -1,14 +1,11 @@
 <h1>hw4</h1>
 <table>
     <tr>
-        <td>
-            <img src="https://raw.githubusercontent.com/phhsu0508/swiftUI/main/hw4demo.gif">
-                </td>        
+            <img src="https://raw.githubusercontent.com/phhsu0508/swiftUI/main/hw4demo.gif"> 
  <td>
 
- 
+     
 ```swift
-
 import SwiftUI
 struct ContentView: View { 
     
@@ -186,10 +183,7 @@ struct BookView: View{
             .padding(.all, 20)
     }
      }
-        
-    
 }
-
 ```
 </td>
 </tr>
