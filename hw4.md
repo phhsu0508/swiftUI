@@ -1,7 +1,12 @@
 <h1>hw4</h1>
 <table>
     <tr>
-            <img src="https://raw.githubusercontent.com/phhsu0508/swiftUI/main/hw4demo.gif"> 
+        <div  align="center">
+
+  <img src="https://raw.githubusercontent.com/phhsu0508/swiftUI/main/hw4demo.gif"> 
+
+</div>
+
  <td>
 
      
